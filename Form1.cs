@@ -1,8 +1,8 @@
 namespace Inventory
 {
-    public partial class MainWindow : Form
+    public partial class Form1 : Form
     {
-        public MainWindow()
+        public Form1()
         {
             InitializeComponent();
         }
