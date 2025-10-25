@@ -1,4 +1,4 @@
-namespace Inventory
+namespace Inventory.src
 {
     internal static class Program
     {
